@@ -1,0 +1,1344 @@
+{
+  "releases": {
+    "69241540": {
+      "tag_name": "v1.0.0",
+      "fully_synced_at": "2025-07-19 17:40:51.839819"
+    },
+    "71139115": {
+      "tag_name": "v1.1.0",
+      "fully_synced_at": "2025-07-19 17:41:00.484465"
+    },
+    "71149071": {
+      "tag_name": "v1.1.1",
+      "fully_synced_at": "2025-07-19 17:41:09.171839"
+    },
+    "71369154": {
+      "tag_name": "v1.1.2",
+      "fully_synced_at": "2025-07-19 17:41:17.687081"
+    },
+    "72133856": {
+      "tag_name": "v1.1.3",
+      "fully_synced_at": "2025-07-19 17:41:26.016476"
+    },
+    "72169705": {
+      "tag_name": "v1.1.4",
+      "fully_synced_at": "2025-07-19 17:41:34.721602"
+    },
+    "73396840": {
+      "tag_name": "v1.1.5",
+      "fully_synced_at": "2025-07-19 17:41:43.459688"
+    },
+    "75607576": {
+      "tag_name": "v1.1.6",
+      "fully_synced_at": "2025-07-19 17:41:51.879980"
+    },
+    "81826634": {
+      "tag_name": "v1.1.7",
+      "fully_synced_at": "2025-07-19 17:42:00.607223"
+    },
+    "87737922": {
+      "tag_name": "v1.2.0",
+      "fully_synced_at": "2025-07-19 17:42:09.091609"
+    },
+    "93162221": {
+      "tag_name": "v1.2.1",
+      "fully_synced_at": "2025-07-19 17:42:18.013020"
+    },
+    "97712972": {
+      "tag_name": "v1.2.2",
+      "fully_synced_at": "2025-07-19 17:42:26.639420"
+    },
+    "97733283": {
+      "tag_name": "v1.2.3",
+      "fully_synced_at": "2025-07-19 17:42:35.479615"
+    },
+    "101364319": {
+      "tag_name": "v1.2.4",
+      "fully_synced_at": "2025-07-19 17:42:44.151092"
+    },
+    "102431795": {
+      "tag_name": "v1.2.5",
+      "fully_synced_at": "2025-07-19 17:42:52.944742"
+    },
+    "107613747": {
+      "tag_name": "v1.2.6",
+      "fully_synced_at": "2025-07-19 17:43:05.051706"
+    },
+    "109859193": {
+      "tag_name": "v1.2.7",
+      "fully_synced_at": "2025-07-19 17:43:16.123579"
+    },
+    "110011077": {
+      "tag_name": "v1.2.9",
+      "fully_synced_at": "2025-07-19 17:43:27.551767"
+    },
+    "110461890": {
+      "tag_name": "v1.3.1",
+      "fully_synced_at": "2025-07-19 17:43:39.009731"
+    },
+    "115554897": {
+      "tag_name": "v1.3.2",
+      "fully_synced_at": "2025-07-19 17:43:50.328213"
+    },
+    "117164753": {
+      "tag_name": "v1.3.3",
+      "fully_synced_at": "2025-07-19 17:44:01.482305"
+    },
+    "121970641": {
+      "tag_name": "v1.3.4",
+      "fully_synced_at": "2025-07-19 17:44:13.336300"
+    },
+    "122396544": {
+      "tag_name": "v1.3.5",
+      "fully_synced_at": "2025-07-19 17:44:24.225535"
+    },
+    "124170164": {
+      "tag_name": "v1.3.6",
+      "fully_synced_at": "2025-07-19 17:44:35.659600"
+    },
+    "127657961": {
+      "tag_name": "v1.3.7",
+      "fully_synced_at": "2025-07-19 17:44:47.168719"
+    },
+    "135501289": {
+      "tag_name": "v1.3.8",
+      "fully_synced_at": "2025-07-19 17:44:58.476241"
+    },
+    "135509607": {
+      "tag_name": "v1.3.9",
+      "fully_synced_at": "2025-07-19 17:45:09.990433"
+    },
+    "139682882": {
+      "tag_name": "v1.3.10",
+      "fully_synced_at": "2025-07-19 17:45:21.587258"
+    },
+    "148864452": {
+      "tag_name": "v1.3.11",
+      "fully_synced_at": "2025-07-19 17:45:33.310004"
+    },
+    "149073659": {
+      "tag_name": "v1.3.12",
+      "fully_synced_at": "2025-07-19 17:45:45.004265"
+    },
+    "152405339": {
+      "tag_name": "v1.3.13",
+      "fully_synced_at": "2025-07-19 17:45:56.527087"
+    },
+    "153648815": {
+      "tag_name": "v1.3.14",
+      "fully_synced_at": "2025-07-19 17:46:08.438551"
+    },
+    "156805654": {
+      "tag_name": "v1.3.15",
+      "fully_synced_at": "2025-07-19 17:46:21.268389"
+    },
+    "163921686": {
+      "tag_name": "v1.3.16",
+      "fully_synced_at": "2025-07-19 17:46:33.371225"
+    },
+    "167518136": {
+      "tag_name": "v1.3.17",
+      "fully_synced_at": "2025-07-19 17:46:45.108495"
+    },
+    "173076084": {
+      "tag_name": "v1.3.18",
+      "fully_synced_at": "2025-07-19 17:46:57.302863"
+    },
+    "176275141": {
+      "tag_name": "v1.4.0",
+      "fully_synced_at": "2025-07-19 17:47:06.912972"
+    },
+    "176278963": {
+      "tag_name": "v1.4.1",
+      "fully_synced_at": "2025-07-19 17:47:16.517042"
+    },
+    "177469386": {
+      "tag_name": "v1.4.2",
+      "fully_synced_at": "2025-07-19 17:47:26.381052"
+    },
+    "178384701": {
+      "tag_name": "v1.4.3",
+      "fully_synced_at": "2025-07-19 17:47:35.486217"
+    },
+    "178564152": {
+      "tag_name": "v1.4.4",
+      "fully_synced_at": "2025-07-19 17:47:44.986415"
+    },
+    "184554921": {
+      "tag_name": "v1.4.5",
+      "fully_synced_at": "2025-07-19 17:47:54.376952"
+    },
+    "189905574": {
+      "tag_name": "v1.4.6",
+      "fully_synced_at": "2025-07-19 17:48:04.389846"
+    },
+    "192827230": {
+      "tag_name": "v1.4.7",
+      "fully_synced_at": "2025-07-19 17:48:14.074724"
+    },
+    "192904811": {
+      "tag_name": "v1.4.8",
+      "fully_synced_at": "2025-07-19 17:48:23.736244"
+    },
+    "199381673": {
+      "tag_name": "v1.4.9",
+      "fully_synced_at": "2025-07-19 17:48:33.474632"
+    },
+    "203298089": {
+      "tag_name": "v1.4.10",
+      "fully_synced_at": "2025-07-19 17:48:42.998035"
+    },
+    "210011664": {
+      "tag_name": "v1.4.11",
+      "fully_synced_at": "2025-07-19 17:48:52.165591"
+    },
+    "213714341": {
+      "tag_name": "v1.4.12",
+      "fully_synced_at": "2025-07-19 17:49:01.499865"
+    },
+    "217788351": {
+      "tag_name": "v1.4.13",
+      "fully_synced_at": "2025-07-19 17:49:12.045354"
+    },
+    "217794686": {
+      "tag_name": "v1.4.14",
+      "fully_synced_at": "2025-07-19 17:49:22.167550"
+    },
+    "217944072": {
+      "tag_name": "v1.4.15",
+      "fully_synced_at": "2025-07-19 17:49:32.452249"
+    },
+    "218162268": {
+      "tag_name": "v1.4.16",
+      "fully_synced_at": "2025-07-19 17:49:42.455251"
+    },
+    "222226654": {
+      "tag_name": "v1.4.17",
+      "fully_synced_at": "2025-07-19 17:49:52.540730"
+    },
+    "227767318": {
+      "tag_name": "v1.4.18",
+      "fully_synced_at": "2025-07-19 17:50:01.794780"
+    }
+  },
+  "assets": {
+    "69241540": {
+      "ClashX.zip_28740489": {
+        "name": "ClashX.zip",
+        "size": 28740489,
+        "updated_at": "2025-07-19T17:40:51+00:00",
+        "synced_at": "2025-07-19 17:40:51.833855"
+      }
+    },
+    "71139115": {
+      "ClashX.Meta.zip_28403659": {
+        "name": "ClashX.Meta.zip",
+        "size": 28403659,
+        "updated_at": "2025-07-19T17:41:00+00:00",
+        "synced_at": "2025-07-19 17:41:00.478856"
+      }
+    },
+    "71149071": {
+      "ClashX.Meta.zip_28407384": {
+        "name": "ClashX.Meta.zip",
+        "size": 28407384,
+        "updated_at": "2025-07-19T17:41:09+00:00",
+        "synced_at": "2025-07-19 17:41:09.166205"
+      }
+    },
+    "71369154": {
+      "ClashX.Meta.zip_28442555": {
+        "name": "ClashX.Meta.zip",
+        "size": 28442555,
+        "updated_at": "2025-07-19T17:41:17+00:00",
+        "synced_at": "2025-07-19 17:41:17.681317"
+      }
+    },
+    "72133856": {
+      "ClashX.Meta.zip_28524773": {
+        "name": "ClashX.Meta.zip",
+        "size": 28524773,
+        "updated_at": "2025-07-19T17:41:25+00:00",
+        "synced_at": "2025-07-19 17:41:26.010670"
+      }
+    },
+    "72169705": {
+      "ClashX.Meta.zip_28535566": {
+        "name": "ClashX.Meta.zip",
+        "size": 28535566,
+        "updated_at": "2025-07-19T17:41:34+00:00",
+        "synced_at": "2025-07-19 17:41:34.715651"
+      }
+    },
+    "73396840": {
+      "ClashX.Meta.zip_29295584": {
+        "name": "ClashX.Meta.zip",
+        "size": 29295584,
+        "updated_at": "2025-07-19T17:41:43+00:00",
+        "synced_at": "2025-07-19 17:41:43.453036"
+      }
+    },
+    "75607576": {
+      "ClashX.Meta.zip_29372268": {
+        "name": "ClashX.Meta.zip",
+        "size": 29372268,
+        "updated_at": "2025-07-19T17:41:51+00:00",
+        "synced_at": "2025-07-19 17:41:51.874048"
+      }
+    },
+    "81826634": {
+      "ClashX.Meta.zip_29731178": {
+        "name": "ClashX.Meta.zip",
+        "size": 29731178,
+        "updated_at": "2025-07-19T17:42:00+00:00",
+        "synced_at": "2025-07-19 17:42:00.600874"
+      }
+    },
+    "87737922": {
+      "ClashX.Meta.zip_30844712": {
+        "name": "ClashX.Meta.zip",
+        "size": 30844712,
+        "updated_at": "2025-07-19T17:42:08+00:00",
+        "synced_at": "2025-07-19 17:42:09.085011"
+      }
+    },
+    "93162221": {
+      "ClashX.Meta.zip_32193518": {
+        "name": "ClashX.Meta.zip",
+        "size": 32193518,
+        "updated_at": "2025-07-19T17:42:17+00:00",
+        "synced_at": "2025-07-19 17:42:18.005924"
+      }
+    },
+    "97712972": {
+      "ClashX.Meta.zip_34388132": {
+        "name": "ClashX.Meta.zip",
+        "size": 34388132,
+        "updated_at": "2025-07-19T17:42:26+00:00",
+        "synced_at": "2025-07-19 17:42:26.631989"
+      }
+    },
+    "97733283": {
+      "ClashX.Meta.zip_34394838": {
+        "name": "ClashX.Meta.zip",
+        "size": 34394838,
+        "updated_at": "2025-07-19T17:42:35+00:00",
+        "synced_at": "2025-07-19 17:42:35.472277"
+      }
+    },
+    "101364319": {
+      "ClashX.Meta.zip_34765981": {
+        "name": "ClashX.Meta.zip",
+        "size": 34765981,
+        "updated_at": "2025-07-19T17:42:44+00:00",
+        "synced_at": "2025-07-19 17:42:44.143915"
+      }
+    },
+    "102431795": {
+      "ClashX.Meta.zip_34907765": {
+        "name": "ClashX.Meta.zip",
+        "size": 34907765,
+        "updated_at": "2025-07-19T17:42:52+00:00",
+        "synced_at": "2025-07-19 17:42:52.937004"
+      }
+    },
+    "107613747": {
+      "ClashX.Meta.SwiftUI.macOS.12.0+.zip_32344612": {
+        "name": "ClashX.Meta.SwiftUI.macOS.12.0+.zip",
+        "size": 32344612,
+        "updated_at": "2025-07-19T17:43:02+00:00",
+        "synced_at": "2025-07-19 17:43:02.562678"
+      },
+      "ClashX.Meta.zip_34995002": {
+        "name": "ClashX.Meta.zip",
+        "size": 34995002,
+        "updated_at": "2025-07-19T17:43:04+00:00",
+        "synced_at": "2025-07-19 17:43:05.044149"
+      }
+    },
+    "109859193": {
+      "ClashX.Meta.SwiftUI.macOS.12.0+.zip_32429840": {
+        "name": "ClashX.Meta.SwiftUI.macOS.12.0+.zip",
+        "size": 32429840,
+        "updated_at": "2025-07-19T17:43:13+00:00",
+        "synced_at": "2025-07-19 17:43:13.818237"
+      },
+      "ClashX.Meta.zip_35025593": {
+        "name": "ClashX.Meta.zip",
+        "size": 35025593,
+        "updated_at": "2025-07-19T17:43:16+00:00",
+        "synced_at": "2025-07-19 17:43:16.116175"
+      }
+    },
+    "110011077": {
+      "ClashX.Meta.SwiftUI.macOS.12.0+.zip_32698222": {
+        "name": "ClashX.Meta.SwiftUI.macOS.12.0+.zip",
+        "size": 32698222,
+        "updated_at": "2025-07-19T17:43:24+00:00",
+        "synced_at": "2025-07-19 17:43:25.060161"
+      },
+      "ClashX.Meta.zip_35293394": {
+        "name": "ClashX.Meta.zip",
+        "size": 35293394,
+        "updated_at": "2025-07-19T17:43:27+00:00",
+        "synced_at": "2025-07-19 17:43:27.543834"
+      }
+    },
+    "110461890": {
+      "ClashX.Meta.SwiftUI.macOS.12.0+.zip_32833189": {
+        "name": "ClashX.Meta.SwiftUI.macOS.12.0+.zip",
+        "size": 32833189,
+        "updated_at": "2025-07-19T17:43:36+00:00",
+        "synced_at": "2025-07-19 17:43:36.571063"
+      },
+      "ClashX.Meta.zip_35428467": {
+        "name": "ClashX.Meta.zip",
+        "size": 35428467,
+        "updated_at": "2025-07-19T17:43:38+00:00",
+        "synced_at": "2025-07-19 17:43:39.002057"
+      }
+    },
+    "115554897": {
+      "ClashX.Meta.macOS.12.0+.zip_33038399": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 33038399,
+        "updated_at": "2025-07-19T17:43:47+00:00",
+        "synced_at": "2025-07-19 17:43:47.895070"
+      },
+      "ClashX.Meta.zip_35626047": {
+        "name": "ClashX.Meta.zip",
+        "size": 35626047,
+        "updated_at": "2025-07-19T17:43:50+00:00",
+        "synced_at": "2025-07-19 17:43:50.320564"
+      }
+    },
+    "117164753": {
+      "ClashX.Meta.macOS.12.0+.zip_32701198": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 32701198,
+        "updated_at": "2025-07-19T17:43:58+00:00",
+        "synced_at": "2025-07-19 17:43:58.799994"
+      },
+      "ClashX.Meta.zip_35141050": {
+        "name": "ClashX.Meta.zip",
+        "size": 35141050,
+        "updated_at": "2025-07-19T17:44:01+00:00",
+        "synced_at": "2025-07-19 17:44:01.474709"
+      }
+    },
+    "121970641": {
+      "ClashX.Meta.macOS.12.0+.zip_32666090": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 32666090,
+        "updated_at": "2025-07-19T17:44:10+00:00",
+        "synced_at": "2025-07-19 17:44:10.610864"
+      },
+      "ClashX.Meta.zip_35182593": {
+        "name": "ClashX.Meta.zip",
+        "size": 35182593,
+        "updated_at": "2025-07-19T17:44:13+00:00",
+        "synced_at": "2025-07-19 17:44:13.328833"
+      }
+    },
+    "122396544": {
+      "ClashX.Meta.macOS.12.0+.zip_33211379": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 33211379,
+        "updated_at": "2025-07-19T17:44:21+00:00",
+        "synced_at": "2025-07-19 17:44:22.058831"
+      },
+      "ClashX.Meta.zip_35775388": {
+        "name": "ClashX.Meta.zip",
+        "size": 35775388,
+        "updated_at": "2025-07-19T17:44:24+00:00",
+        "synced_at": "2025-07-19 17:44:24.217913"
+      }
+    },
+    "124170164": {
+      "ClashX.Meta.macOS.12.0+.zip_34541146": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 34541146,
+        "updated_at": "2025-07-19T17:44:33+00:00",
+        "synced_at": "2025-07-19 17:44:33.247475"
+      },
+      "ClashX.Meta.zip_37094375": {
+        "name": "ClashX.Meta.zip",
+        "size": 37094375,
+        "updated_at": "2025-07-19T17:44:35+00:00",
+        "synced_at": "2025-07-19 17:44:35.651590"
+      }
+    },
+    "127657961": {
+      "ClashX.Meta.macOS.12.0+.zip_34744816": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 34744816,
+        "updated_at": "2025-07-19T17:44:44+00:00",
+        "synced_at": "2025-07-19 17:44:44.500081"
+      },
+      "ClashX.Meta.zip_37303518": {
+        "name": "ClashX.Meta.zip",
+        "size": 37303518,
+        "updated_at": "2025-07-19T17:44:47+00:00",
+        "synced_at": "2025-07-19 17:44:47.160256"
+      }
+    },
+    "135501289": {
+      "ClashX.Meta.macOS.12.0+.zip_35023146": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 35023146,
+        "updated_at": "2025-07-19T17:44:55+00:00",
+        "synced_at": "2025-07-19 17:44:55.829623"
+      },
+      "ClashX.Meta.zip_37722707": {
+        "name": "ClashX.Meta.zip",
+        "size": 37722707,
+        "updated_at": "2025-07-19T17:44:58+00:00",
+        "synced_at": "2025-07-19 17:44:58.467980"
+      }
+    },
+    "135509607": {
+      "ClashX.Meta.macOS.12.0+.zip_35749963": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 35749963,
+        "updated_at": "2025-07-19T17:45:07+00:00",
+        "synced_at": "2025-07-19 17:45:07.640413"
+      },
+      "ClashX.Meta.zip_38449067": {
+        "name": "ClashX.Meta.zip",
+        "size": 38449067,
+        "updated_at": "2025-07-19T17:45:09+00:00",
+        "synced_at": "2025-07-19 17:45:09.981896"
+      }
+    },
+    "139682882": {
+      "ClashX.Meta.macOS.12.0+.zip_35855423": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 35855423,
+        "updated_at": "2025-07-19T17:45:18+00:00",
+        "synced_at": "2025-07-19 17:45:19.023368"
+      },
+      "ClashX.Meta.zip_38555666": {
+        "name": "ClashX.Meta.zip",
+        "size": 38555666,
+        "updated_at": "2025-07-19T17:45:21+00:00",
+        "synced_at": "2025-07-19 17:45:21.578747"
+      }
+    },
+    "148864452": {
+      "ClashX.Meta.macOS.12.0+.zip_33188794": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 33188794,
+        "updated_at": "2025-07-19T17:45:30+00:00",
+        "synced_at": "2025-07-19 17:45:30.769230"
+      },
+      "ClashX.Meta.zip_35910494": {
+        "name": "ClashX.Meta.zip",
+        "size": 35910494,
+        "updated_at": "2025-07-19T17:45:33+00:00",
+        "synced_at": "2025-07-19 17:45:33.301907"
+      }
+    },
+    "149073659": {
+      "ClashX.Meta.macOS.12.0+.zip_33422902": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 33422902,
+        "updated_at": "2025-07-19T17:45:42+00:00",
+        "synced_at": "2025-07-19 17:45:42.292718"
+      },
+      "ClashX.Meta.zip_36144703": {
+        "name": "ClashX.Meta.zip",
+        "size": 36144703,
+        "updated_at": "2025-07-19T17:45:44+00:00",
+        "synced_at": "2025-07-19 17:45:44.995980"
+      }
+    },
+    "152405339": {
+      "ClashX.Meta.macOS.12.0+.zip_33575857": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 33575857,
+        "updated_at": "2025-07-19T17:45:53+00:00",
+        "synced_at": "2025-07-19 17:45:53.945496"
+      },
+      "ClashX.Meta.zip_36205068": {
+        "name": "ClashX.Meta.zip",
+        "size": 36205068,
+        "updated_at": "2025-07-19T17:45:56+00:00",
+        "synced_at": "2025-07-19 17:45:56.518675"
+      }
+    },
+    "153648815": {
+      "ClashX.Meta.macOS.12.0+.zip_33628998": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 33628998,
+        "updated_at": "2025-07-19T17:46:05+00:00",
+        "synced_at": "2025-07-19 17:46:05.875971"
+      },
+      "ClashX.Meta.zip_36258313": {
+        "name": "ClashX.Meta.zip",
+        "size": 36258313,
+        "updated_at": "2025-07-19T17:46:08+00:00",
+        "synced_at": "2025-07-19 17:46:08.430425"
+      }
+    },
+    "156805654": {
+      "ClashX.Meta.macOS.12.0+.zip_34075509": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 34075509,
+        "updated_at": "2025-07-19T17:46:18+00:00",
+        "synced_at": "2025-07-19 17:46:18.827251"
+      },
+      "ClashX.Meta.zip_36706900": {
+        "name": "ClashX.Meta.zip",
+        "size": 36706900,
+        "updated_at": "2025-07-19T17:46:21+00:00",
+        "synced_at": "2025-07-19 17:46:21.259706"
+      }
+    },
+    "163921686": {
+      "ClashX.Meta.macOS.12.0+.zip_34580597": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 34580597,
+        "updated_at": "2025-07-19T17:46:30+00:00",
+        "synced_at": "2025-07-19 17:46:30.814699"
+      },
+      "ClashX.Meta.zip_37211975": {
+        "name": "ClashX.Meta.zip",
+        "size": 37211975,
+        "updated_at": "2025-07-19T17:46:33+00:00",
+        "synced_at": "2025-07-19 17:46:33.362861"
+      }
+    },
+    "167518136": {
+      "ClashX.Meta.macOS.12.0+.zip_34977892": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 34977892,
+        "updated_at": "2025-07-19T17:46:42+00:00",
+        "synced_at": "2025-07-19 17:46:42.693034"
+      },
+      "ClashX.Meta.zip_37590990": {
+        "name": "ClashX.Meta.zip",
+        "size": 37590990,
+        "updated_at": "2025-07-19T17:46:44+00:00",
+        "synced_at": "2025-07-19 17:46:45.099699"
+      }
+    },
+    "173076084": {
+      "ClashX.Meta.macOS.12.0+.zip_36385399": {
+        "name": "ClashX.Meta.macOS.12.0+.zip",
+        "size": 36385399,
+        "updated_at": "2025-07-19T17:46:54+00:00",
+        "synced_at": "2025-07-19 17:46:54.574945"
+      },
+      "ClashX.Meta.zip_38998516": {
+        "name": "ClashX.Meta.zip",
+        "size": 38998516,
+        "updated_at": "2025-07-19T17:46:57+00:00",
+        "synced_at": "2025-07-19 17:46:57.294089"
+      }
+    },
+    "176275141": {
+      "ClashX.Meta.zip_37421003": {
+        "name": "ClashX.Meta.zip",
+        "size": 37421003,
+        "updated_at": "2025-07-19T17:47:06+00:00",
+        "synced_at": "2025-07-19 17:47:06.904476"
+      }
+    },
+    "176278963": {
+      "ClashX.Meta.zip_37420559": {
+        "name": "ClashX.Meta.zip",
+        "size": 37420559,
+        "updated_at": "2025-07-19T17:47:16+00:00",
+        "synced_at": "2025-07-19 17:47:16.508779"
+      }
+    },
+    "177469386": {
+      "ClashX.Meta.zip_37802127": {
+        "name": "ClashX.Meta.zip",
+        "size": 37802127,
+        "updated_at": "2025-07-19T17:47:26+00:00",
+        "synced_at": "2025-07-19 17:47:26.372082"
+      }
+    },
+    "178384701": {
+      "ClashX.Meta.zip_37536339": {
+        "name": "ClashX.Meta.zip",
+        "size": 37536339,
+        "updated_at": "2025-07-19T17:47:35+00:00",
+        "synced_at": "2025-07-19 17:47:35.477576"
+      }
+    },
+    "178564152": {
+      "ClashX.Meta.zip_37532112": {
+        "name": "ClashX.Meta.zip",
+        "size": 37532112,
+        "updated_at": "2025-07-19T17:47:44+00:00",
+        "synced_at": "2025-07-19 17:47:44.977637"
+      }
+    },
+    "184554921": {
+      "ClashX.Meta.zip_38053657": {
+        "name": "ClashX.Meta.zip",
+        "size": 38053657,
+        "updated_at": "2025-07-19T17:47:54+00:00",
+        "synced_at": "2025-07-19 17:47:54.368065"
+      }
+    },
+    "189905574": {
+      "ClashX.Meta.zip_43099400": {
+        "name": "ClashX.Meta.zip",
+        "size": 43099400,
+        "updated_at": "2025-07-19T17:48:04+00:00",
+        "synced_at": "2025-07-19 17:48:04.380152"
+      }
+    },
+    "192827230": {
+      "ClashX.Meta.zip_38892370": {
+        "name": "ClashX.Meta.zip",
+        "size": 38892370,
+        "updated_at": "2025-07-19T17:48:13+00:00",
+        "synced_at": "2025-07-19 17:48:14.065747"
+      }
+    },
+    "192904811": {
+      "ClashX.Meta.zip_38910580": {
+        "name": "ClashX.Meta.zip",
+        "size": 38910580,
+        "updated_at": "2025-07-19T17:48:23+00:00",
+        "synced_at": "2025-07-19 17:48:23.727343"
+      }
+    },
+    "199381673": {
+      "ClashX.Meta.zip_39405178": {
+        "name": "ClashX.Meta.zip",
+        "size": 39405178,
+        "updated_at": "2025-07-19T17:48:33+00:00",
+        "synced_at": "2025-07-19 17:48:33.465519"
+      }
+    },
+    "203298089": {
+      "ClashX.Meta.zip_40032660": {
+        "name": "ClashX.Meta.zip",
+        "size": 40032660,
+        "updated_at": "2025-07-19T17:48:42+00:00",
+        "synced_at": "2025-07-19 17:48:42.988711"
+      }
+    },
+    "210011664": {
+      "ClashX.Meta.zip_41514456": {
+        "name": "ClashX.Meta.zip",
+        "size": 41514456,
+        "updated_at": "2025-07-19T17:48:52+00:00",
+        "synced_at": "2025-07-19 17:48:52.156200"
+      }
+    },
+    "213714341": {
+      "ClashX.Meta.zip_49429205": {
+        "name": "ClashX.Meta.zip",
+        "size": 49429205,
+        "updated_at": "2025-07-19T17:49:01+00:00",
+        "synced_at": "2025-07-19 17:49:01.488678"
+      }
+    },
+    "217788351": {
+      "ClashX.Meta.zip_49831520": {
+        "name": "ClashX.Meta.zip",
+        "size": 49831520,
+        "updated_at": "2025-07-19T17:49:11+00:00",
+        "synced_at": "2025-07-19 17:49:12.034840"
+      }
+    },
+    "217794686": {
+      "ClashX.Meta.zip_49838163": {
+        "name": "ClashX.Meta.zip",
+        "size": 49838163,
+        "updated_at": "2025-07-19T17:49:22+00:00",
+        "synced_at": "2025-07-19 17:49:22.156076"
+      }
+    },
+    "217944072": {
+      "ClashX.Meta.zip_49840677": {
+        "name": "ClashX.Meta.zip",
+        "size": 49840677,
+        "updated_at": "2025-07-19T17:49:32+00:00",
+        "synced_at": "2025-07-19 17:49:32.440693"
+      }
+    },
+    "218162268": {
+      "ClashX.Meta.zip_49854744": {
+        "name": "ClashX.Meta.zip",
+        "size": 49854744,
+        "updated_at": "2025-07-19T17:49:42+00:00",
+        "synced_at": "2025-07-19 17:49:42.444038"
+      }
+    },
+    "222226654": {
+      "ClashX.Meta.zip_50029530": {
+        "name": "ClashX.Meta.zip",
+        "size": 50029530,
+        "updated_at": "2025-07-19T17:49:52+00:00",
+        "synced_at": "2025-07-19 17:49:52.529038"
+      }
+    },
+    "227767318": {
+      "ClashX.Meta.zip_50296904": {
+        "name": "ClashX.Meta.zip",
+        "size": 50296904,
+        "updated_at": "2025-07-19T17:50:01+00:00",
+        "synced_at": "2025-07-19 17:50:01.783078"
+      }
+    }
+  },
+  "source_codes": {
+    "v1.0.0": {
+      "SourceCode_v1.0.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:40:47.741248"
+      },
+      "SourceCode_v1.0.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:40:49.260268"
+      }
+    },
+    "v1.1.0": {
+      "SourceCode_v1.1.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:40:56.510825"
+      },
+      "SourceCode_v1.1.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:40:57.858607"
+      }
+    },
+    "v1.1.1": {
+      "SourceCode_v1.1.1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:05.122998"
+      },
+      "SourceCode_v1.1.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:06.503979"
+      }
+    },
+    "v1.1.2": {
+      "SourceCode_v1.1.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:13.702290"
+      },
+      "SourceCode_v1.1.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:15.189509"
+      }
+    },
+    "v1.1.3": {
+      "SourceCode_v1.1.3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:22.417288"
+      },
+      "SourceCode_v1.1.3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:23.828936"
+      }
+    },
+    "v1.1.4": {
+      "SourceCode_v1.1.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:30.611418"
+      },
+      "SourceCode_v1.1.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:31.967581"
+      }
+    },
+    "v1.1.5": {
+      "SourceCode_v1.1.5.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:39.459497"
+      },
+      "SourceCode_v1.1.5.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:40.910853"
+      }
+    },
+    "v1.1.6": {
+      "SourceCode_v1.1.6.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:47.941871"
+      },
+      "SourceCode_v1.1.6.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:49.513053"
+      }
+    },
+    "v1.1.7": {
+      "SourceCode_v1.1.7.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:56.608293"
+      },
+      "SourceCode_v1.1.7.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:41:58.031442"
+      }
+    },
+    "v1.2.0": {
+      "SourceCode_v1.2.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:05.129742"
+      },
+      "SourceCode_v1.2.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:06.508971"
+      }
+    },
+    "v1.2.1": {
+      "SourceCode_v1.2.1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:13.718961"
+      },
+      "SourceCode_v1.2.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:15.135192"
+      }
+    },
+    "v1.2.2": {
+      "SourceCode_v1.2.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:22.564351"
+      },
+      "SourceCode_v1.2.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:23.964263"
+      }
+    },
+    "v1.2.3": {
+      "SourceCode_v1.2.3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:31.266929"
+      },
+      "SourceCode_v1.2.3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:32.761686"
+      }
+    },
+    "v1.2.4": {
+      "SourceCode_v1.2.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:40.037834"
+      },
+      "SourceCode_v1.2.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:41.430382"
+      }
+    },
+    "v1.2.5": {
+      "SourceCode_v1.2.5.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:48.702891"
+      },
+      "SourceCode_v1.2.5.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:50.094656"
+      }
+    },
+    "v1.2.6": {
+      "SourceCode_v1.2.6.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:57.410376"
+      },
+      "SourceCode_v1.2.6.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:42:58.822111"
+      }
+    },
+    "v1.2.7": {
+      "SourceCode_v1.2.7.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:43:09.884340"
+      },
+      "SourceCode_v1.2.7.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:43:11.342883"
+      }
+    },
+    "v1.2.9": {
+      "SourceCode_v1.2.9.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:43:20.781584"
+      },
+      "SourceCode_v1.2.9.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:43:22.258342"
+      }
+    },
+    "v1.3.1": {
+      "SourceCode_v1.3.1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:43:32.201497"
+      },
+      "SourceCode_v1.3.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:43:33.661301"
+      }
+    },
+    "v1.3.2": {
+      "SourceCode_v1.3.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:43:43.604833"
+      },
+      "SourceCode_v1.3.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:43:45.041868"
+      }
+    },
+    "v1.3.3": {
+      "SourceCode_v1.3.3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:43:54.796465"
+      },
+      "SourceCode_v1.3.3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:43:56.232239"
+      }
+    },
+    "v1.3.4": {
+      "SourceCode_v1.3.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:44:06.163613"
+      },
+      "SourceCode_v1.3.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:44:07.600780"
+      }
+    },
+    "v1.3.5": {
+      "SourceCode_v1.3.5.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:44:17.889035"
+      },
+      "SourceCode_v1.3.5.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:44:19.303485"
+      }
+    },
+    "v1.3.6": {
+      "SourceCode_v1.3.6.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:44:28.916698"
+      },
+      "SourceCode_v1.3.6.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:44:30.267614"
+      }
+    },
+    "v1.3.7": {
+      "SourceCode_v1.3.7.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:44:40.419941"
+      },
+      "SourceCode_v1.3.7.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:44:41.922873"
+      }
+    },
+    "v1.3.8": {
+      "SourceCode_v1.3.8.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:44:51.714480"
+      },
+      "SourceCode_v1.3.8.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:44:53.212227"
+      }
+    },
+    "v1.3.9": {
+      "SourceCode_v1.3.9.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:45:03.347471"
+      },
+      "SourceCode_v1.3.9.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:45:04.786860"
+      }
+    },
+    "v1.3.10": {
+      "SourceCode_v1.3.10.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:45:14.781259"
+      },
+      "SourceCode_v1.3.10.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:45:16.107259"
+      }
+    },
+    "v1.3.11": {
+      "SourceCode_v1.3.11.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:45:26.619907"
+      },
+      "SourceCode_v1.3.11.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:45:28.039691"
+      }
+    },
+    "v1.3.12": {
+      "SourceCode_v1.3.12.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:45:37.899018"
+      },
+      "SourceCode_v1.3.12.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:45:39.339379"
+      }
+    },
+    "v1.3.13": {
+      "SourceCode_v1.3.13.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:45:49.673434"
+      },
+      "SourceCode_v1.3.13.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:45:51.098341"
+      }
+    },
+    "v1.3.14": {
+      "SourceCode_v1.3.14.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:46:01.696635"
+      },
+      "SourceCode_v1.3.14.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:46:03.067351"
+      }
+    },
+    "v1.3.15": {
+      "SourceCode_v1.3.15.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:46:13.553842"
+      },
+      "SourceCode_v1.3.15.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:46:14.941002"
+      }
+    },
+    "v1.3.16": {
+      "SourceCode_v1.3.16.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:46:26.609021"
+      },
+      "SourceCode_v1.3.16.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:46:28.011151"
+      }
+    },
+    "v1.3.17": {
+      "SourceCode_v1.3.17.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:46:38.583891"
+      },
+      "SourceCode_v1.3.17.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:46:39.927926"
+      }
+    },
+    "v1.3.18": {
+      "SourceCode_v1.3.18.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:46:50.230185"
+      },
+      "SourceCode_v1.3.18.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:46:51.740137"
+      }
+    },
+    "v1.4.0": {
+      "SourceCode_v1.4.0.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:02.564122"
+      },
+      "SourceCode_v1.4.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:04.183702"
+      }
+    },
+    "v1.4.1": {
+      "SourceCode_v1.4.1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:12.156034"
+      },
+      "SourceCode_v1.4.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:13.640030"
+      }
+    },
+    "v1.4.2": {
+      "SourceCode_v1.4.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:21.831061"
+      },
+      "SourceCode_v1.4.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:23.256215"
+      }
+    },
+    "v1.4.3": {
+      "SourceCode_v1.4.3.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:31.558970"
+      },
+      "SourceCode_v1.4.3.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:32.965185"
+      }
+    },
+    "v1.4.4": {
+      "SourceCode_v1.4.4.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:40.669989"
+      },
+      "SourceCode_v1.4.4.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:42.062440"
+      }
+    },
+    "v1.4.5": {
+      "SourceCode_v1.4.5.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:50.044755"
+      },
+      "SourceCode_v1.4.5.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:51.472110"
+      }
+    },
+    "v1.4.6": {
+      "SourceCode_v1.4.6.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:47:59.627235"
+      },
+      "SourceCode_v1.4.6.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:01.126674"
+      }
+    },
+    "v1.4.7": {
+      "SourceCode_v1.4.7.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:09.773036"
+      },
+      "SourceCode_v1.4.7.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:11.250537"
+      }
+    },
+    "v1.4.8": {
+      "SourceCode_v1.4.8.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:19.411643"
+      },
+      "SourceCode_v1.4.8.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:20.819410"
+      }
+    },
+    "v1.4.9": {
+      "SourceCode_v1.4.9.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:29.103068"
+      },
+      "SourceCode_v1.4.9.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:30.532191"
+      }
+    },
+    "v1.4.10": {
+      "SourceCode_v1.4.10.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:38.592989"
+      },
+      "SourceCode_v1.4.10.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:40.063001"
+      }
+    },
+    "v1.4.11": {
+      "SourceCode_v1.4.11.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:48.142871"
+      },
+      "SourceCode_v1.4.11.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:49.527218"
+      }
+    },
+    "v1.4.12": {
+      "SourceCode_v1.4.12.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:57.386694"
+      },
+      "SourceCode_v1.4.12.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:48:58.775679"
+      }
+    },
+    "v1.4.13": {
+      "SourceCode_v1.4.13.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:06.894873"
+      },
+      "SourceCode_v1.4.13.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:08.258336"
+      }
+    },
+    "v1.4.14": {
+      "SourceCode_v1.4.14.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:17.179551"
+      },
+      "SourceCode_v1.4.14.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:18.558647"
+      }
+    },
+    "v1.4.15": {
+      "SourceCode_v1.4.15.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:27.480672"
+      },
+      "SourceCode_v1.4.15.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:28.928095"
+      }
+    },
+    "v1.4.16": {
+      "SourceCode_v1.4.16.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:37.936294"
+      },
+      "SourceCode_v1.4.16.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:39.371838"
+      }
+    },
+    "v1.4.17": {
+      "SourceCode_v1.4.17.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:47.693274"
+      },
+      "SourceCode_v1.4.17.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:49.167549"
+      }
+    },
+    "v1.4.18": {
+      "SourceCode_v1.4.18.zip": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:57.756462"
+      },
+      "SourceCode_v1.4.18.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-19 17:49:59.135699"
+      }
+    }
+  }
+}
